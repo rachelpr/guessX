@@ -1,0 +1,118 @@
+{
+  "flags": [
+    {
+      "id": "1",
+      "name": "Rainbow Flag",
+      "description": "The Rainbow Flag, or Gay Pride Flag, is a symbol of LGBTQ+ pride. It represents diversity and equality within the LGBTQ+ community.",
+      "image": "/flag_images/gay_pride.png"
+    },
+    {
+      "id": "2",
+      "name": "Lesbian Flag",
+      "description": "The Lesbian Flag represents lesbian pride and is a symbol of love and unity among lesbians.",
+      "image": "/flag_images/lesbian_pride.png"
+    },
+    {
+      "id": "3",
+      "name": "Bisexual Flag",
+      "description": "The Bisexual Flag is a symbol of bisexual pride, embracing both same-sex and different-sex attractions.",
+      "image": "/flag_images/bisexual_pride.png"
+    },
+    {
+      "id": "4",
+      "name": "Pansexual Flag",
+      "description": "The Pansexual Flag represents pansexuality, the attraction to people regardless of their gender or gender identity.",
+      "image": "/flag_images/pansexual-pride.png"
+    },
+    {
+      "id": "5",
+      "name": "Progress Pride",
+      "description": "The Progress Pride Flag is an inclusive design, incorporating the Rainbow Flag with colors symbolizing transgender and marginalized communities.",
+      "image": "/flag_images/progress-pride-flag.png"
+    },
+    {
+      "id": "6",
+      "name": "Transgender Flag",
+      "description": "The Transgender Flag is a symbol of transgender pride and represents the transgender community.",
+      "image": "/flag_images/transgender-flag.png"
+    },
+    {
+      "id": "7",
+      "name": "Intersex Flag",
+      "description": "The Intersex Flag represents intersex people and their rights, challenging binary views of gender.",
+      "image": "/flag_images/intersex-flag.png"
+    },
+    {
+      "id": "8",
+      "name": "Nonbinary Flag",
+      "description": "The Nonbinary Flag represents nonbinary and genderqueer individuals, celebrating gender diversity.",
+      "image": "/flag_images/non-binary-flag.png"
+    },
+    {
+      "id": "9",
+      "name": "Asexual Flag",
+      "description": "The Asexual Flag is a symbol of asexuality, representing individuals who experience little or no sexual attraction.",
+      "image": "/flag_images/asexual-flag.png"
+    },
+    {
+      "id": "10",
+      "name": "Genderfluid Flag",
+      "description": "The Genderfluid Flag represents genderfluidity, where one's gender identity may change over time.",
+      "image": "/flag_images/genderfluid-flag.png"
+    },
+    {
+      "id": "11",
+      "name": "Agender Flag",
+      "description": "The Agender Flag represents agender individuals, who identify as having no gender or being gender-neutral.",
+      "image": "/flag_images/agender-flag.png"
+    },
+    {
+      "id": "12",
+      "name": "Genderqueer Flag",
+      "description": "The Genderqueer Flag is a symbol of genderqueer and non-conforming individuals who don't fit traditional gender categories.",
+      "image": "/flag_images/genderqueer-flag.png"
+    },
+    {
+      "id": "13",
+      "name": "Ally Flag",
+      "description": "The Ally Flag represents allies of the LGBTQ+ community who support and advocate for LGBTQ+ rights and equality.",
+      "image": "/flag_images/straight-ally-flag.webp"
+    },
+    {
+      "id": "14",
+      "name": "Polyamory Flag",
+      "description": "The Polyamory Flag is a symbol of polyamorous relationships, where individuals can have multiple consensual partners.",
+      "image": "/flag_images/polyamory-flag.png"
+    },
+    {
+      "id": "15",
+      "name": "Demigender Flag",
+      "description": "The Demigender Flag represents demigender individuals, whose gender identity is partially but not wholly male, female, or other genders.",
+      "image": "/flag_images/demigender-pride-flag.png"
+    },
+    {
+      "id": "16",
+      "name": "Lipstick Lesbian Flag",
+      "description": "The Lipstick Lesbian Flag is a symbol of feminine lesbian individuals who embrace their gender expression.",
+      "image": "/flag_images/lipstick-lesbian-flag.png"
+    },
+    {
+      "id": "17",
+      "name": "Polysexual Flag",
+      "description": "The Polysexual Flag represents polysexuality, where individuals are attracted to multiple genders, but not necessarily all genders.",
+      "image": "/flag_images/polysexual-flag.png"
+    },
+    {
+      "id": "18",
+      "name": "Aromantic Flag",
+      "description": "The Aromantic Flag is a symbol of aromantic individuals who experience little or no romantic attraction.",
+      "image": "/flag_images/aromantic-flag.png"
+    },
+    {
+      "id": "19",
+      "name": "Gay Mens Flag",
+      "description": "The Gay Men's Flag represents gay men's pride and is a symbol of love, solidarity, and rights within the gay community.",
+      "image": "/flag_images/gay-men-pride-flag.png"
+    }
+  ]
+}
