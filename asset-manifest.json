@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guessX/static/css/main.b3d21011.css",
+    "main.js": "/guessX/static/js/main.34bfd978.js",
+    "index.html": "/guessX/index.html",
+    "main.b3d21011.css.map": "/guessX/static/css/main.b3d21011.css.map",
+    "main.34bfd978.js.map": "/guessX/static/js/main.34bfd978.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3d21011.css",
+    "static/js/main.34bfd978.js"
+  ]
+}
