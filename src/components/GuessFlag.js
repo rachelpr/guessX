@@ -73,6 +73,7 @@ function GuessFlag({
 
   return (
     <div className="flag_guess_container">
+      {modalOpen && <div className="game-over-overlay"></div>}
       <form onSubmit={handleGuess}>
         <div className="dropdown_container">
           <select onChange={handleDropdownChange} value={userGuess}>
